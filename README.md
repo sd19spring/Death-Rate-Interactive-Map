@@ -6,4 +6,4 @@ This code will generate a map of the United States containing data from 1999 to 
 
 Need to install plotly, geopandas, pyshp, and shapely
 
-Full Write-up and Reflection at ()
+Full Write-up and Reflection at (https://github.com/sd19spring/InteractiveVisualization-kristin_and_sina/blob/master/WriteUpandReflection.ipynb)
