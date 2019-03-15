@@ -19,7 +19,7 @@ folium.Choropleth(geo_data=state_geo,name='choropleth',data=state_data,
     fill_color='YlGn',
     fill_opacity=0.7,
     line_opacity=0.2,
-    legend_name='Death Rate (1999-2016)'
+    legend_name='Average Death Rate (1999-2016)'
 ).add_to(m)
 
 folium.LayerControl().add_to(m)
