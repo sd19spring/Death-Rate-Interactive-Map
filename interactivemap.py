@@ -11,7 +11,7 @@ state_geo = os.path.join('data', 'us_states.json')
 state_deaths = os.path.join('data','death.csv')
 state_data = pd.read_csv(state_deaths)
 
-m = folium.Map(location=[48, -102], zoom_start=3)
+m = folium.Map(location=[50.246366, -110], zoom_start=4)
 
 folium.Choropleth(geo_data=state_geo,name='choropleth',data=state_data,
     columns=['State',  'Death Rate'],
