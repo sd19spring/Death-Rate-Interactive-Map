@@ -28,5 +28,21 @@ def yearly_map(year):
                 for row in row_list:
                     writer.writerow(row)
 
+#establishes the center of map based on longitude and latitude
+m = folium.Map(location=[50.246366, -110], zoom_start=4)
 
-yearly_map(2014)
+#sets the color scheme, data used for legend, and legend labels
+folium.Choropleth(geo_data=state_geo,name='choropleth',data='2014.csv',
+    columns=['State',  'Death Rate'],
+    key_on='feature.id',
+    fill_color='BuPu',
+    fill_opacity=0.7,
+    line_opacity=0.5,
+    legend_name='Average Death Rate (2014)'
+).add_to(m)
+
+folium.LayerControl().add_to(m)
+
+if __name__ == "__main__":
+    yearly_map(2014)
+    m.save('map2014.html')
