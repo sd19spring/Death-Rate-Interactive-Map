@@ -11,8 +11,6 @@ import folium
 from folium import Choropleth, Map, Marker, LayerControl
 from folium import IFrame
 
-
-
 state_geo = os.path.join('data', 'us_states.json')
 state_deaths = os.path.join('data','death.csv')
 state_data = pd.read_csv(state_deaths)
