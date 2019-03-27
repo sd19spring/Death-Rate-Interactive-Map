@@ -1,0 +1,561 @@
+lon,lat,state
+32.8006671,-86.79113,"Alabama
+Alzheimer's Disease - 1479.83333333333
+Cancer -10043.3333333333
+CLRD - 2654.33333333333
+Diabetes - 1341.27777777778
+Heart Disease – 12635.1666666667
+Influenza and Pneumonia - 1028.66666666667
+Kidney Disease - 1049.94444444444
+Stroke - 2861.5
+Suicide – 624.5
+Unintentional Injuries – 2398.22222222222"
+61.370716,-152.404419,"Alaska
+Alzheimer's Disease – 66.8888888888889
+Cancer – 835.111111111111
+CLRD – 171.833333333333
+Diabetes – 99.4444444444444
+Heart Disease – 672.611111111111
+Influenza and Pneumonia – 51.8333333333333
+Kidney Disease – 40.5
+Stroke – 172.611111111111
+Suicide – 148.888888888889
+Unintentional Injuries – 350.444444444444"
+33.729759,-111.431221,"Arizona
+Alzheimer's Disease – 1988.83333333333
+Cancer -10350.1176470588
+CLRD – 2929.44444444444
+Diabetes - 1401.94444444444    
+Heart Disease – 10725.7222222222
+Influenza and Pneumonia – 1011.55555555556
+Kidney Disease – 520.055555555556
+Stroke – 2337.66666666667
+Suicide - 1014.33333333333 
+Unintentional Injuries – 2997.77777777778"
+34.969704,-92.373123,"Arkansas
+Alzheimer's Disease – 835.722222222222
+Cancer – 6393
+CLRD – 1734.44444444444
+Diabetes - 834.888888888889        
+Heart Disease – 7687.33333333333
+Influenza and Pneumonia – 756
+Kidney Disease - 636.277777777778 
+Stroke – 1871.44444444444
+Suicide – 432.388888888889
+Unintentional Injuries – 1411.22222222222"
+36.116203,-119.681564,"California
+Alzheimer's Disease – 9246.55555555555
+Cancer – 55706.6111111111
+CLRD – 13081.5
+Diabetes – 7431.61111111111
+Heart Disease – 63432
+Influenza and Pneumonia – 6758.94444444444
+Kidney Disease – 2688.11111111111
+Stroke – 15447.2777777778
+Suicide – 3617.33333333333
+Unintentional Injuries – 10784.5"
+39.059811,-105.311104,"Colorado
+Alzheimer's Disease – 1171
+Cancer – 6769.11111111111
+CLRD – 2099.61111111111
+Diabetes - 747   
+Heart Disease – 6378.66666666667
+Influenza and Pneumonia – 647.944444444445
+Kidney Disease – 431.055555555556
+Stroke – 1701.88888888889
+Suicide – 857.055555555556
+Unintentional Injuries – 2110.44444444444"
+41.5997782,-72.755371,"Connecticut
+Alzheimer's Disease – 751.277777777778
+Cancer – 6907.05555555556
+CLRD – 1423.33333333333
+Diabetes – 689.611111111111
+Heart Disease – 7702.33333333333
+Influenza and Pneumonia – 748.666666666667
+Kidney Disease – 570.666666666667
+Stroke – 1550.55555555556
+Suicide – 319.833333333333
+Unintentional Injuries – 1352.55555555556"
+39.318523,-75.507141,"Delaware
+Alzheimer's Disease – 111.333333333333
+Cancer – 1159.16666666667
+CLRD – 145
+Diabetes – 167.555555555556
+Heart Disease – 1457.5
+Influenza and Pneumonia – 87.2222222222222
+Kidney Disease – 68.6111111111111
+Stroke – 231.555555555556
+Suicide – 35.7222222222222
+Unintentional Injuries – 214.388888888889"
+38.897438,-77.026817,"District of Columbia
+Alzheimer's Disease – 184.611111111111
+Cancer – 1845.38888888889
+CLRD - 408.722222222222
+Diabetes – 213.722222222222
+Heart Disease – 1913.44444444444
+Influenza and Pneumonia – 150.444444444444
+Kidney Disease – 148.944444444444
+Stroke – 406.166666666667
+Suicide – 102.611111111111
+Unintentional Injuries – 344.833333333333"
+27.766279,-81.686783,"Florida
+Alzheimer's Disease – 4714.22222222222
+Cancer – 40975.1111111111
+CLRD – 9967.44444444445
+Diabetes – 5007.27777777778
+Heart Disease – 45342.3333333333
+Influenza and Pneumonia – 2748.16666666667
+Kidney Disease – 2686.27777777778
+Stroke – 9583
+Suicide – 2633.72222222222
+Unintentional Injuries – 8620.94444444445"
+33.040619,-83.643074,"Georgia
+Alzheimer's Disease – 2035.11111111111
+Cancer – 15051.1111111111
+CLRD – 3654
+Diabetes – 1803.5
+Heart Disease – 16791
+Influenza and Pneumonia – 1538.66666666667
+Kidney Disease – 1584.27777777778
+Stroke – 4024.44444444445
+Suicide – 1064.38888888889
+Unintentional Injuries – 3741.11111111111"
+21.094318,-157.498337,"Hawaii
+Alzheimer's Disease – 223.388888888889
+Cancer – 2197.61111111111
+CLRD – 298.555555555556
+Diabetes – 248.277777777778
+Heart Disease – 2396.05555555556
+Influenza and Pneumonia – 311.166666666667
+Kidney Disease – 176.277777777778
+Stroke – 690.055555555556
+Suicide – 154
+Unintentional Injuries – 436.555555555556"
+44.240459,-114.478828,"Idaho
+Alzheimer's Disease – 380.833333333333
+Cancer – 2486.11111111111
+CLRD – 698.944444444444
+Diabetes – 349.944444444444
+Heart Disease – 2533.05555555556
+Influenza and Pneumonia – 238.166666666667
+Kidney Disease – 135.111111111111
+Stroke – 679.833333333333
+Suicide – 258.222222222222
+Unintentional Injuries – 663.277777777778"
+40.349457,-88.986137,"Illinois
+Alzheimer's Disease – 2818.44444444444
+Cancer – 24462.4444444444
+CLRD – 5156.72222222222
+Diabetes – 2860.88888888889
+Heart Disease – 27352.1111111111
+Influenza and Pneumonia – 2608.44444444444
+Kidney Disease – 2408.77777777778
+Stroke – 6128.5
+Suicide – 1173.22222222222
+Unintentional Injuries – 4326.83333333333"
+39.849457,-86.258278,"Indiana
+Alzheimer's Disease – 1804.88888888889
+Cancer – 13058.4444444444
+CLRD – 3607.83333333333
+Diabetes – 1742.55555555556
+Heart Disease – 14423.3333333333
+Influenza and Pneumonia – 1172.77777777778
+Kidney Disease – 1301.05555555556
+Stroke – 3338.77777777778
+Suicide – 820.888888888889
+Unintentional Injuries- 2588.94444444444"
+42.011539,-93.210526,"Iowa
+Alzheimer's Disease – 1142.55555555556
+Cancer – 6420.88888888889
+CLRD – 1743.61111111111
+Diabetes – 768.5
+Heart Disease – 7362.22222222222
+Influenza and Pneumonia – 778.555555555556
+Kidney Disease – 289.5
+Stroke – 1761.16666666667
+Suicide – 364
+Unintentional Injuries – 1270.38888888889"
+38.5266,-96.726486,"Kansas
+Alzheimer's Disease – 784.111111111111
+Cancer – 5394.5
+CLRD – 1540.83333333333
+Diabetes – 688.055555555556
+Heart Disease – 5922.27777777778
+Influenza and Pneumonia – 649.444444444444
+Kidney Disease – 546.555555555556
+Stroke – 1541.22222222222
+Suicide – 388.277777777778
+Unintentional Injuries – 1240.61111111111"
+37.66814,-84.670067,"Kentucky
+Alzheimer's Disease – 1258.61111111111
+Cancer – 9665.38888888889
+CLRD – 2740.55555555556
+Diabetes – 1228.38888888889
+Heart Disease – 10574.0555555556
+Influenza and Pneumonia – 1004.61111111111
+Kidney Disease – 914.777777777778
+Stroke – 2232.55555555556
+Suicide – 621.388888888889
+Unintentional Injuries – 2413.61111111111"
+31.169546,-91.867805,"Louisiana
+Alzheimer's Disease – 1344.94444444444
+Cancer – 9279.66666666667
+CLRD – 1887.66666666667
+Diabetes – 1469.16666666667
+Heart Disease – 10717.8888888889
+Influenza and Pneumonia – 885.833333333333
+Kidney Disease – 1106.27777777778
+Stroke – 2302.11111111111
+Suicide – 548.611111111111
+Unintentional Injuries – 2307"
+44.693947,-69.381927,"Maine
+Alzheimer's Disease – 476
+Cancer – 3168.27777777778
+CLRD – 824.055555555556
+Diabetes – 379.444444444444
+Heart Disease – 2932.16666666667
+Influenza and Pneumonia – 279.777777777778
+Kidney Disease – 241.777777777778
+Stroke – 704.611111111111
+Suicide – 190.111111111111
+Unintentional Injuries – 588.222222222222"
+39.063946,-76.802101,"Maryland
+Alzheimer's Disease – 929.055555555556
+Cancer – 10398.4444444444
+CLRD – 1969.22222222222
+Diabetes – 1334.33333333333
+Heart Disease – 11474.6666666667
+Influenza and Pneumonia – 1061.94444444444
+Kidney Disease – 714.166666666667
+Stroke – 2539.61111111111
+Suicide – 518.388888888889
+Unintentional Injuries – 1526.44444444444"
+42.230171,-71.530106,"Massachusetts
+Alzheimer's Disease – 1646.66666666667
+Cancer – 363.487654320988
+CLRD – 2639.83333333333
+Diabetes - 1238.94444444444
+Heart Disease – 13158.8333333333
+Influenza and Pneumonia – 1651.94444444444
+Kidney Disease – 1275.72222222222
+Stroke – 2894.27777777778
+Suicide – 513.944444444445
+Unintentional Injuries – 2074.55555555556"
+43.326618,-84.536095,"Michigan
+Alzheimer's Disease – 2605.94444444444
+Cancer – 20227.6111111111
+CLRD – 4861.5
+Diabetes – 2747.94444444444
+Heart Disease – 24974.0555555556
+Influenza and Pneumonia – 1848.61111111111
+Kidney Disease – 1645.72222222222
+Stroke – 4990.55555555556
+Suicide - 1173.72222222222                                             
+Unintentional Injuries – 3773.61111111111"
+45.694454,-93.900192,"Minnesota
+Alzheimer's Disease – 1388.11111111111
+Cancer – 9345.61111111111
+CLRD – 2032.83333333333
+Diabetes – 1179.72222222222
+Heart Disease – 7906.16666666667
+Influenza and Pneumonia – 739.166666666667
+Kidney Disease – 698.055555555556
+Stroke – 2359.83333333333
+Suicide – 584
+Unintentional Injuries – 2095.83333333333"
+32.741646,-89.678696,"Mississippi
+Alzheimer's Disease – 824.888888888889
+CLRD – 1551.72222222222
+Diabetes– 826.444444444445
+Heart Disease – 8177.72222222222
+Influenza and Pneumonia – 690.388888888889
+Kidney Disease – 679.722222222222
+Stroke – 1666.44444444444
+Suicide – 366.555555555556
+Unintentional Injuries - 1715.27777777778"
+38.4456085,-92.678696,"Missouri
+Alzheimer's Disease – 1666.27777777778
+Cancer – 12546.3888888889
+CLRD – 3324.88888888889
+Diabetes – 1476.88888888889
+Heart Disease – 15127.3888888889
+Influenza and Pneumonia – 1398.44444444444
+Kidney Disease – 1197.22222222222
+Stroke – 3324.94444444444
+Suicide – 836.055555555556
+Unintentional Injuries – 2911.77777777778"
+46.921925,-110.45353,"Montana
+Alzheimer's Disease – 258.888888888889
+Cancer – 1945.61111111111
+CLRD – 612.222222222222
+Diabetes – 251.444444444444
+Heart Disease – 1947.61111111111
+Influenza and Pneumonia – 190.555555555556
+Kidney Disease – 119.388888888889
+Stroke – 502
+Suicide – 209.555555555556
+Unintentional Injuries – 561.333333333333"
+41.12537,-98.268082,"Nebraska
+Alzheimer's Disease – 511
+Cancer – 3413.05555555556
+CLRD – 981.222222222222
+Diabetes – 444.611111111111
+Heart Disease – 3646.44444444444
+Influenza and Pneumonia – 354.5
+Kidney Disease – 256.666666666667
+Stroke – 931.333333333333
+Suicide – 199.388888888889
+Unintentional Injuries – 712.5"
+38.313515,-117.055374,"Nevada
+Alzheimer's Disease – 359.944444444444
+Cancer - 4377.44444444444
+CLRD – 1259.27777777778
+Diabetes – 359.555555555556
+Heart Disease – 4957.94444444444
+Influenza and Pneumonia – 464.444444444445
+Kidney Disease – 394.888888888889
+Stroke – 928.722222222222
+Suicide – 492.611111111111
+Unintentional Injuries – 1057.88888888889"
+43.452492,-71.563896,"New Hampshire
+Alzheimer's Disease – 360.555555555556
+Cancer – 2585.72222222222
+CLRD – 630.611111111111
+Diabetes – 293.888888888889
+Heart Disease – 2544.61111111111
+Influenza and Pneumonia – 217.722222222222
+Kidney Disease – 158.111111111111
+Stroke – 526.944444444445
+Suicide – 176.333333333333
+Unintentional Injuries – 521.222222222222"
+40.298904,-74.521011,"New Jersey
+Alzheimer's Disease – 1764.27777777778
+Cancer – 17101.8333333333
+CLRD – 3076.16666666667
+Diabetes – 2272.5
+Heart Disease – 20035.1666666667
+Influenza and Pneumonia – 1507.05555555556
+Kidney Disease – 1568.22222222222
+Stroke – 3625.55555555556
+Suicide – 636
+Unintentional Injuries – 2628.5"
+34.840515,-106.248482,"New Mexico
+Alzheimer's Disease – 364.166666666667
+Cancer – 3233.94444444444
+CLRD – 943.222222222222
+Diabetes – 604.111111111111
+Heart Disease – 3377.66666666667
+Influenza and Pneumonia – 340.444444444444
+Kidney Disease – 248.388888888889
+Stroke – 767.277777777778
+Suicide – 392.833333333333
+Unintentional Injuries – 1260.83333333333"
+42.165726,-74.948051,"New York
+Alzheimer's Disease – 2254.44444444444
+Cancer - 35891.2222222222
+CLRD – 6851.83333333333
+Diabetes – 3912.05555555556
+Heart Disease – 49726.6666666667
+Influenza and Pneumonia - 4938.83333333333               
+Kidney Disease – 2352.33333333333
+Stroke – 6692.55555555556
+Suicide – 1418.5
+Unintentional Injuries – 5275.83333333333"
+35.630066,-79.806419,"North Carolina
+Alzheimer's Disease -2569.05555555556
+Cancer – 17472.7777777778
+CLRD – 4326.5
+Diabetes – 2303.94444444444
+Heart Disease – 17952.6111111111
+Influenza and Pneumonia – 1827.38888888889
+Kidney Disease – 1623.77777777778
+Stroke – 4856.66666666667
+Suicide – 1135.33333333333
+Unintentional Injuries – 4166.33333333333"
+47.528912,-99.784012,"North Dakota
+Alzheimer's Disease – 322.666666666667
+Cancer – 1308.38888888889
+CLRD – 311.444444444444
+Diabetes – 200.666666666667
+Heart Disease – 1482.72222222222
+Influenza and Pneumonia – 150.444444444444
+Kidney Disease – 85.7777777777778
+Stroke – 388.666666666667
+Suicide – 98
+Unintentional Injuries – 298.722222222222"
+40.388783,-82.764915,"Ohio
+Alzheimer's Disease – 3539.05555555556
+Cancer – 25115.3333333333
+CLRD – 6502.61111111111
+Diabetes – 3651.33333333333
+Heart Disease – 28564.8888888889
+Influenza and Pneumonia – 2263.16666666667
+Kidney Disease – 1950
+Stroke – 6230.55555555556
+Suicide – 1358.77777777778
+Unintentional Injuries – 4925.05555555556"
+35.565342,-96.928917,"Oklahoma
+Alzheimer's Disease – 993.5
+Cancer – 7689
+CLRD – 2396.27777777778
+Diabetes – 1166.22222222222
+Heart Disease – 10142.7222222222
+Influenza and Pneumonia – 826.777777777778
+Kidney Disease – 574.611111111111
+Stroke – 2119.05555555556
+Suicide – 595.166666666667
+Unintentional Injuries – 2088.44444444444"
+44.572021,-122.070938,"Oregon
+Alzheimer's Disease – 1258
+Cancer – 7484.94444444444
+CLRD – 1897.38888888889
+Diabetes – 1068.38888888889
+Heart Disease – 6712.33333333333
+Influenza and Pneumonia – 525.333333333333
+Kidney Disease – 342.888888888889
+Stroke – 2127.38888888889
+Suicide - 620.5      
+Unintentional Injuries – 1590.77777777778"
+40.590752,-77.209755,"Pennsylvania
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+41.680893,-71.51178,"Rhode Island
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+33.856892,-80.945007,"South Carolina
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+44.299782,-99.4388828,"South Dakota 
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+35.747845,-86.692345,"Tennessee
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+31.054487,-97.563461,"Texas
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+40.150032,-111.862434,"Utah
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+44.045876,-72.710686,"Vermont
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+37.769337,-78.169968,"Virginia
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+47.400902,-121.490494,"Washington
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+38.491226,-80.954453,"West Virginia
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+44.268543,-89.616508,"Wisconsin
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
+42.755966,-107.30249,"Wyoming
+Alzheimer's disease                  
+Cancer                                      
+CLRD                                    
+Diabetes                                    
+Heart Disease                       
+Influenza and Pneumonia                   
+Kidney Disease                                 
+Stroke                                              
+Suicide                                             
+Unintentional Injuries"
