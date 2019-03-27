@@ -32,19 +32,9 @@ class AverageMap:
         legend_name='Average Death Rate (1999-2016)'
         ).add_to(m)
     for i in range(0,len(marker_coord)):
-        popup = folium.Popup(IFrame(marker_coord.iloc[i]['state'],width=350,height=250))
-        popup2 = folium.Popup(marker_coord.iloc[i]['state'],max_width=350)
-        Marker([marker_coord.iloc[i]['lon'],marker_coord.iloc[i]['lat']], popup=popup2).add_to(m)
+        popup = folium.Popup(marker_coord.iloc[i]['state'],max_width=350)
+        Marker([marker_coord.iloc[i]['lon'],marker_coord.iloc[i]['lat']], popup=popup).add_to(m)
     LayerControl().add_to(m)
-
-# class Popup():
-#     'attributions:states, average number of deaths, location'
-#     def popup_size():
-#         popup = folium.Popup(marker_coord.iloc[i]['state'],max_width=100)
-#
-#     def marker():
-#         for i in range(0,len(marker_coord)):
-#             Marker([marker_coord.iloc[i]['lon'],marker_coord.iloc[i]['lat']], popup=popup).add_to(m)
 
 if __name__ == "__main__":
     m.save('AverageMap.html')
