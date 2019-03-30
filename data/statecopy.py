@@ -6,6 +6,10 @@ import os
 
 
 def copy_state(year):
+    """
+    This generates the files that will be read by yearlymap.py to place text in popups for markers.
+    The function takes in a year and maps all the data of that year from State files to a new file called StateLonandLat.csv 
+    """
 
     state_list = ['state']
 
@@ -49,13 +53,22 @@ def copy_state(year):
             writer.writerow(row)
         writeFile.close()
 
-
-                # with open('StateLonandLat'+str(year)+'.csv', 'w') as writeFile:
-                #     writer = csv.writer(writeFile)
-                #     for row in column_list:
-                #         writer.writerow(row)
-                #     writeFile.close()
-
-
-
-copy_state(2000)
+if __name__ == "__main__":
+    copy_state(1999)
+    copy_state(2000)
+    copy_state(2001)
+    copy_state(2002)
+    copy_state(2003)
+    copy_state(2004)
+    copy_state(2005)
+    copy_state(2006)
+    copy_state(2007)
+    copy_state(2008)
+    copy_state(2009)
+    copy_state(2010)
+    copy_state(2011)
+    copy_state(2012)
+    copy_state(2013)
+    copy_state(2014)
+    copy_state(2015)
+    copy_state(2016)
