@@ -1,562 +1,612 @@
 lon,lat,state
-32.8006671,-86.79113,"Alabama                           
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
-61.370716,-152.404419,"Alaska                                             
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+32.8006671,-86.79113,"Alabama
+Alzheimer's disease - 1523
+Cancer - 10196
+CLRD - 2866
+Diabetes - 1302
+Heart disease - 12083
+Influenza and pneumonia - 942
+Kidney disease - 1184
+Stroke - 2619
+Suicide - 679
+Unintentional injuries - 2394
+"
+61.370716,-152.404419,"Alaska
+Alzheimer's disease - 85
+Cancer - 884
+CLRD - 176
+Diabetes - 86
+Heart disease - 707
+Influenza and pneumonia - 64
+Kidney disease - 56
+Stroke - 167
+Suicide - 164
+Unintentional injuries - 366
+"
 33.729759,-111.431221,"Arizona
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 2327
+Cancer - 10678
+CLRD - 2926
+Diabetes - 1389
+Heart disease - 9954
+Influenza and pneumonia - 768
+Kidney disease - 537
+Stroke - 2138
+Suicide - 1093
+Unintentional injuries - 3018
+"
 34.969704,-92.373123,"Arkansas
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
-36.116203,-119.681564,"California
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 955
+Cancer - 6475
+CLRD - 1773
+Diabetes - 850
+Heart disease - 7274
+Influenza and pneumonia - 647
+Kidney disease - 737
+Stroke - 1741
+Suicide - 447
+Unintentional injuries - 1461
+"
+36.116203,-119.681564,"Califronia
+Alzheimer's disease - 10856
+Cancer - 56453
+CLRD - 12987
+Diabetes - 7061
+Heart disease - 58641
+Influenza and pneumonia - 5882
+Kidney disease - 3112
+Stroke - 13662
+Suicide - 3913
+Unintentional injuries - 10435
+"
 39.059811,-105.311104,"Colorado
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1334
+Cancer - 7035
+CLRD - 2199
+Diabetes - 721
+Heart disease - 6038
+Influenza and pneumonia - 550
+Kidney disease - 426
+Stroke - 1607
+Suicide - 865
+Unintentional injuries - 2106
+"
 41.5997782,-72.755371,"Connecticut
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
-39.318523,-75.507141,"Delaware
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
-38.897438,-77.026817,"District of Columbia
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 820
+Cancer - 6954
+CLRD - 1289
+Diabetes - 662
+Heart disease - 7127
+Influenza and pneumonia - 568
+Kidney disease - 599
+Stroke - 1349
+Suicide - 353
+Unintentional injuries - 1337
+"
+39.318523,-75.507141,"DC
+Alzheimer's disease - 114
+Cancer - 1041
+CLRD - 147
+Diabetes - 145
+Heart disease - 1306
+Influenza and pneumonia - 80
+Kidney disease - 84
+Stroke - 196
+Suicide - 41
+Unintentional injuries - 212
+"
+38.897438,-77.026817,"Delaware
+Alzheimer's disease - 215
+Cancer - 1909
+CLRD - 441
+Diabetes - 196
+Heart disease - 1776
+Influenza and pneumonia - 138
+Kidney disease - 158
+Stroke - 407
+Suicide - 106
+Unintentional injuries - 357
+"
 27.766279,-81.686783,"Florida
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 4831
+Cancer - 41467
+CLRD - 10337
+Diabetes - 5024
+Heart disease - 41737
+Influenza and pneumonia - 2259
+Kidney disease - 3297
+Stroke - 8432
+Suicide - 2789
+Unintentional injuries - 8875
+"
 33.040619,-83.643074,"Georgia
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 2080
+Cancer - 15435
+CLRD - 3816
+Diabetes - 1996
+Heart disease - 15987
+Influenza and pneumonia - 1456
+Kidney disease - 1753
+Stroke - 3762
+Suicide - 1133
+Unintentional injuries - 3745
+"
 21.094318,-157.498337,"Hawaii
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 189
+Cancer - 2266
+CLRD - 296
+Diabetes - 272
+Heart disease - 2239
+Influenza and pneumonia - 289
+Kidney disease - 208
+Stroke - 605
+Suicide - 207
+Unintentional injuries - 432
+"
 44.240459,-114.478828,"Idaho
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
-40.349457,-88.986137,"Illinois
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 410
+Cancer - 2530
+CLRD - 727
+Diabetes - 353
+Heart disease - 2495
+Influenza and pneumonia - 208
+Kidney disease - 186
+Stroke - 642
+Suicide - 290
+Unintentional injuries - 654
+"
+40.349457,-88.986137,"Illinios
+Alzheimer's disease - 2927
+Cancer - 24070
+CLRD - 5231
+Diabetes - 2507
+Heart disease - 24959
+Influenza and pneumonia - 2212
+Kidney disease - 2612
+Stroke - 5349
+Suicide - 1178
+Unintentional injuries - 3997
+"
 39.849457,-86.258278,"Indiana
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1940
+Cancer - 13164
+CLRD - 3794
+Diabetes - 1587
+Heart disease - 13388
+Influenza and pneumonia - 1175
+Kidney disease - 1516
+Stroke - 3082
+Suicide - 864
+Unintentional injuries - 2534
+"
 42.011539,-93.210526,"Iowa
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1411
+Cancer - 6358
+CLRD - 1698
+Diabetes - 733
+Heart disease - 6880
+Influenza and pneumonia - 560
+Kidney disease - 323
+Stroke - 1537
+Suicide - 372
+Unintentional injuries - 1273
+"
 38.5266,-96.726486,"Kansas
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 825
+Cancer - 5377
+CLRD - 1580
+Diabetes - 655
+Heart disease - 5433
+Influenza and pneumonia - 550
+Kidney disease - 577
+Stroke - 1370
+Suicide - 401
+Unintentional injuries - 1317
+"
 37.66814,-84.670067,"Kentucky
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1464
+Cancer - 9930
+CLRD - 2779
+Diabetes - 1212
+Heart disease - 9662
+Influenza and pneumonia - 943
+Kidney disease - 1079
+Stroke - 1992
+Suicide - 631
+Unintentional injuries - 2632
+"
 31.169546,-91.867805,"Louisiana
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1295
+Cancer - 9203
+CLRD - 1939
+Diabetes - 1205
+Heart disease - 10282
+Influenza and pneumonia - 878
+Kidney disease - 1218
+Stroke - 1977
+Suicide - 557
+Unintentional injuries - 1999
+"
 44.693947,-69.381927,"Maine
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 502
+Cancer - 3248
+CLRD - 809
+Diabetes - 376
+Heart disease - 2628
+Influenza and pneumonia - 234
+Kidney disease - 272
+Stroke - 602
+Suicide - 186
+Unintentional injuries - 540
+"
 39.063946,-76.802101,"Maryland
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 986
+Cancer - 10269
+CLRD - 2039
+Diabetes - 1191
+Heart disease - 10915
+Influenza and pneumonia - 925
+Kidney disease - 803
+Stroke - 2279
+Suicide - 502
+Unintentional injuries - 1446
+"
 42.230171,-71.530106,"Massachusetts
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1773
+Cancer - 12993
+CLRD - 2383
+Diabetes - 1028
+Heart disease - 12043
+Influenza and pneumonia - 1291
+Kidney disease - 1381
+Stroke - 2516
+Suicide - 598
+Unintentional injuries - 2060
+"
 43.326618,-84.536095,"Michigan
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 2736
+Cancer - 20620
+CLRD - 5079
+Diabetes - 2697
+Heart disease - 23326
+Influenza and pneumonia - 1529
+Kidney disease - 1720
+Stroke - 4474
+Suicide - 1263
+Unintentional injuries - 3770
+"
 45.694454,-93.900192,"Minnesota
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1451
+Cancer - 9612
+CLRD - 2016
+Diabetes - 1037
+Heart disease - 7185
+Influenza and pneumonia - 595
+Kidney disease - 897
+Stroke - 2167
+Suicide - 606
+Unintentional injuries - 2103
+"
 32.741646,-89.678696,"Mississippi
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 927
+CLRD - 1661
+Diabetes - 926
+Heart disease - 7542
+Influenza and pneumonia - 567
+Kidney disease - 738
+Stroke - 1520
+Suicide - 388
+Unintentional injuries - 1685
+"
 38.4456085,-92.678696,"Missouri
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1986
+Cancer - 12626
+CLRD - 3557
+Diabetes - 1425
+Heart disease - 13840
+Influenza and pneumonia - 1188
+Kidney disease - 1305
+Stroke - 3001
+Suicide - 856
+Unintentional injuries - 2975
+"
 46.921925,-110.45353,"Montana
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 302
+Cancer - 1923
+CLRD - 602
+Diabetes - 227
+Heart disease - 1849
+Influenza and pneumonia - 168
+Kidney disease - 133
+Stroke - 494
+Suicide - 227
+Unintentional injuries - 548
+"
 41.12537,-98.268082,"Nebraska
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 565
+Cancer - 3438
+CLRD - 1008
+Diabetes - 452
+Heart disease - 3355
+Influenza and pneumonia - 266
+Kidney disease - 290
+Stroke - 876
+Suicide - 193
+Unintentional injuries - 700
+"
 38.313515,-117.055374,"Nevada
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 296
+Cancer - 4529
+CLRD - 1186
+Diabetes - 350
+Heart disease - 4811
+Influenza and pneumonia - 471
+Kidney disease - 471
+Stroke - 796
+Suicide - 547
+Unintentional injuries - 1088
+"
 43.452492,-71.563896,"New Hampshire
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 396
+Cancer - 2525
+CLRD - 609
+Diabetes - 236
+Heart disease - 2290
+Influenza and pneumonia - 191
+Kidney disease - 206
+Stroke - 500
+Suicide - 196
+Unintentional injuries - 517
+"
 40.298904,-74.521011,"New Jersey
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1878
+Cancer - 16815
+CLRD - 3106
+Diabetes - 2098
+Heart disease - 18730
+Influenza and pneumonia - 1128
+Kidney disease - 1580
+Stroke - 3402
+Suicide - 719
+Unintentional injuries - 2486
+"
 34.840515,-106.248482,"New Mexico
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 343
+Cancer - 3358
+CLRD - 1022
+Diabetes - 643
+Heart disease - 3224
+Influenza and pneumonia - 294
+Kidney disease - 276
+Stroke - 806
+Suicide - 413
+Unintentional injuries - 1233
+"
 42.165726,-74.948051,"New York
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 2616
+Cancer - 35431
+CLRD - 6847
+Diabetes - 3642
+Heart disease - 44981
+Influenza and pneumonia - 4642
+Kidney disease - 2439
+Stroke - 6213
+Suicide - 1547
+Unintentional injuries - 5004
+"
 35.630066,-79.806419,"North Carolina
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 2817
+Cancer - 18061
+CLRD - 4495
+Diabetes - 2042
+Heart disease - 17154
+Influenza and pneumonia - 1700
+Kidney disease - 1892
+Stroke - 4298
+Suicide - 1174
+Unintentional injuries - 4144
+"
 47.528912,-99.784012,"North Dakota
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 361
+Cancer - 1269
+CLRD - 356
+Diabetes - 192
+Heart disease - 1395
+Influenza and pneumonia - 128
+Kidney disease - 104
+Stroke - 382
+Suicide - 106
+Unintentional injuries - 285
+"
 40.388783,-82.764915,"Ohio
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 4109
+Cancer - 25083
+CLRD - 6717
+Diabetes - 3470
+Heart disease - 26164
+Influenza and pneumonia - 1975
+Kidney disease - 2066
+Stroke - 5755
+Suicide - 1439
+Unintentional injuries - 5124
+"
 35.565342,-96.928917,"Oklahoma
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1015
+Cancer - 7831
+CLRD - 2720
+Diabetes - 1089
+Heart disease - 9426
+Influenza and pneumonia - 778
+Kidney disease - 595
+Stroke - 1980
+Suicide - 618
+Unintentional injuries - 2288
+"
 44.572021,-122.070938,"Oregon
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1300
+Cancer - 7638
+CLRD - 1971
+Diabetes - 1052
+Heart disease - 6198
+Influenza and pneumonia - 417
+Kidney disease - 400
+Stroke - 1793
+Suicide - 685
+Unintentional injuries - 1566
+"
 40.590752,-77.209755,"Pennsylvania
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 3591
+Cancer - 29055
+CLRD - 6202
+Diabetes - 3242
+Heart disease - 31556
+Influenza and pneumonia - 2324
+Kidney disease - 2982
+Stroke - 6701
+Suicide - 1576
+Unintentional injuries - 5751
+"
 41.680893,-71.51178,"Rhode Island
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 338
+Cancer - 2266
+CLRD - 507
+Diabetes - 211
+Heart disease - 2322
+Influenza and pneumonia - 197
+Kidney disease - 199
+Stroke - 431
+Suicide - 129
+Unintentional injuries - 475
+"
 33.856892,-80.945007,"South Carolina
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
-44.299782,-99.4388828,"South Dakota 
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1570
+Cancer - 9356
+CLRD - 2264
+Diabetes - 1128
+Heart disease - 9295
+Influenza and pneumonia - 747
+Kidney disease - 963
+Stroke - 2293
+Suicide - 637
+Unintentional injuries - 2274
+"
+44.299782,-99.4388828,"South Dakota
+Alzheimer's disease - 398
+Cancer - 1655
+CLRD - 451
+Diabetes - 240
+Heart disease - 1616
+Influenza and pneumonia - 169
+Kidney disease - 74
+Stroke - 416
+Suicide - 140
+Unintentional injuries - 393
+"
 35.747845,-86.692345,"Tennessee
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 2440
+Cancer - 13593
+CLRD - 3551
+Diabetes - 1687
+Heart disease - 14582
+Influenza and pneumonia - 1352
+Kidney disease - 983
+Stroke - 3205
+Suicide - 943
+Unintentional injuries - 3539
+"
 31.054487,-97.563461,"Texas
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 5209
+Cancer - 36717
+CLRD - 8921
+Diabetes - 4744
+Heart disease - 38253
+Influenza and pneumonia - 3022
+Kidney disease - 3878
+Stroke - 9180
+Suicide - 2891
+Unintentional injuries - 9212
+"
 40.150032,-111.862434,"Utah
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 375
+Cancer - 2810
+CLRD - 671
+Diabetes - 471
+Heart disease - 2889
+Influenza and pneumonia - 348
+Kidney disease - 263
+Stroke - 739
+Suicide - 473
+Unintentional injuries - 970
+"
 44.045876,-72.710686,"Vermont
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 238
+Cancer - 1392
+CLRD - 335
+Diabetes - 151
+Heart disease - 1172
+Influenza and pneumonia - 60
+Kidney disease - 50
+Stroke - 265
+Suicide - 106
+Unintentional injuries - 298
+"
 37.769337,-78.169968,"Virginia
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1848
+Cancer - 14080
+CLRD - 2969
+Diabetes - 1530
+Heart disease - 13404
+Influenza and pneumonia - 1195
+Kidney disease - 1595
+Stroke - 3293
+Suicide - 963
+Unintentional injuries - 2527
+"
 47.400902,-121.490494,"Washington
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 3025
+Cancer - 11874
+CLRD - 2737
+Diabetes - 1499
+Heart disease - 10602
+Influenza and pneumonia - 578
+Kidney disease - 552
+Stroke - 2548
+Suicide - 957
+Unintentional injuries - 2609
+"
 38.491226,-80.954453,"West Virginia
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 594
+Cancer - 4685
+CLRD - 1482
+Diabetes - 776
+Heart disease - 4897
+Influenza and pneumonia - 436
+Kidney disease - 475
+Stroke - 1104
+Suicide - 279
+Unintentional injuries - 1234
+"
 44.268543,-89.616508,"Wisconsin
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 1762
+Cancer - 11279
+CLRD - 2474
+Diabetes - 1158
+Heart disease - 11115
+Influenza and pneumonia - 904
+Kidney disease - 1163
+Stroke - 2609
+Suicide - 793
+Unintentional injuries - 2525
+"
 42.755966,-107.30249,"Wyoming
-Alzheimer's disease                  
-Cancer                                      
-CLRD                                    
-Diabetes                                    
-Heart Disease                       
-Influenza and Pneumonia                   
-Kidney Disease                                 
-Stroke                                              
-Suicide                                             
-Unintentional Injuries"
+Alzheimer's disease - 146
+Cancer - 1016
+CLRD - 332
+Diabetes - 105
+Heart disease - 962
+Influenza and pneumonia - 109
+Kidney disease - 69
+Stroke - 204
+Suicide - 131
+Unintentional injuries - 346
+"
