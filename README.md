@@ -18,6 +18,8 @@ How to Install Required Packages:
 
 How to Run Code:
 
+  python statecopy.py
+  
   python yearlymap.py
 
 Full Write-up and Reflection at (https://github.com/sd19spring/InteractiveVisualization-kristin_and_sina/blob/master/WriteUpandReflection.ipynb)
