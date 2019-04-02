@@ -1,0 +1,32 @@
+
+# Mini Project 4: Interactive Map
+By: Kristin Aoki and Sina Berik
+
+# Project Overview
+
+Our project is an interactive map that displays the ten leading causes of death in the United States for the years between 1999 and 2016. The map has a blue-purple color gradient dependent on the death rate for each state. The death rate for each state is determined by dividing the total number of deaths by the population. When the mouse clicks on the marker of a state, a text box will appear with the top ten causes of death with the number of deaths in a given year.
+
+# Results
+
+The map depicted below is the map that was generated from our code based on the average number of cumulative deaths from 1999 to 2016. The colors associated with the state directly correlates with the data in a CSV file and show the amount of total death rate in that state. The legend in the top right-hand corner of the image gives a numerical context to the color scheme.
+
+We also made individual maps for every year between 1999 and 2016 too, which can be seen in the second and third image below. And, the specific results for every state can be viewed by clicking the state itself. This will open a pop-up window that will show the breakdown of the death rate among different causes.
+
+<img src="averagemap.jpg" width="1000"> 
+<img src="2011map.jpg" width="1000"> 
+<img src="2014map.jpg" width="1000"> 
+
+# Implementation
+
+The following image is the MVC diagram for our interactive map.
+
+<img src="MVC_diagram.jpg" width="500">
+
+Our code generates a map of the United States based on the year inputted into the code. This will call the corresponding CSV file that holds the death rates for all the states and D.C. This creates the color gradient on the graph. Once the code generates and saves the map, and opens in a web browser. The user has the ability to click on the different markers on the graph to read about the specific number of deaths for each leading cause of death. The popup will disappear when the user clicks on a new popup or anywhere else on the map. All of the data found on our map comes from https://catalog.data.gov/dataset/age-adjusted-death-rates-for-the-top-10-leading-causes-of-death-united-states-2013. 
+
+At the beginning of the project, we researched different libraries that would generate a map of the United States that could be edited to fit our goals. During our research, we found two libraries that appeared to work, Folium and Plotly. We began using Plotly and looking at all the different documentation, but it is mainly built to use in a browser, not in a text editor. The library was also difficult to navigate. However, Folium offered the ability to build the map and save it to the computer. Then we added a package that would open the HTML file in a web browser.
+
+# Reflection
+
+One of the biggest challenges we faced was editing CSV files. The data we have found was not directly suitable for our project and we had to make a lot of reorganizing. Copy pasting data from 51 files that each has over 150 rows was very time demanding. So, we decided to write another program that will do this labor for us. That went really well and saved us a lot of time. We wish we knew before that we couldn’t write columns in a CSV file directly. That would have saved us even more time.
+	We planned to use the divide and conquer strategy and it worked out exactly as planned. We each worked on different functions and pushed to GitHub. Due to the fact that our functions relied on each other to work, we always pushed our work in a timely manner. We both had respect for each other and this made us cover a lot of work during the spring break. Working together during spring break gave us enough time to complete the project and reach some of our stretch goals.
