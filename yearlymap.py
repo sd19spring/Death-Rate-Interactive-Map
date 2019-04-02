@@ -8,7 +8,8 @@ import webbrowser
 
 def yearly_map(year):
     """
-
+    This function generates a file for a given year that will be used to generate the map.
+    The data is being read from a CSV and written to a new file.
     """
     state_geo = os.path.join('data', 'us_states.json')
     state_deaths = os.path.join('data','death.csv')
@@ -32,7 +33,7 @@ def yearly_map(year):
 
 def produce_map(year):
     """
-
+    This function generates a map of the US and displays all the data for a given year in popups and a color gradient
     """
     year_file = yearly_map(year)
     state_geo = os.path.join('data', 'us_states.json')
