@@ -64,9 +64,6 @@ def produce_map(year):
     webbrowser.open('file://'+os.path.realpath(map))
 
 if __name__ == "__main__":
-    yearly_map(2011)
     produce_map(2011)
-    yearly_map(2014)
     produce_map(2014)
-    yearly_map(2016)
     produce_map(2016)
