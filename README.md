@@ -6,20 +6,20 @@ This code will generate a map of the United States containing data from 1999 to 
 
 How to Install Required Packages:
 
-  pip install csv
+  `pip install csv`
 
-  pip install folium
+  `pip install folium`
 
-  pip install operator
+  `pip install operator`
 
-  pip install os
+  `pip install os`
 
-  pip install pandas
+  `pip install pandas`
 
 How to Run Code:
 
-  python statecopy.py
+  `python statecopy.py`
   
-  python yearlymap.py
+  `python yearlymap.py`
 
 Full Write-up and Reflection at (https://github.com/sd19spring/InteractiveVisualization-kristin_and_sina/blob/master/WriteUpandReflection.ipynb)
