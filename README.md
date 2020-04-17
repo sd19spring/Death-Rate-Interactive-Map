@@ -22,4 +22,4 @@ How to Run Code:
   
   `python yearlymap.py`
 
-Full Write-up and Reflection at (https://github.com/sd19spring/InteractiveVisualization-kristin_and_sina/blob/master/WriteUpandReflection.ipynb)
+Full Write-up and Reflection [here] (https://github.com/sd19spring/InteractiveVisualization-kristin_and_sina/blob/master/WriteUpandReflection.ipynb)
